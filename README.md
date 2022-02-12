@@ -1,3 +1,5 @@
+<img width="378" alt="logo的副本" src="https://user-images.githubusercontent.com/99536703/153709165-74ebfdee-4094-4afc-b9d6-16ddaeb602e2.png">
+
 # MeMeDAO
 
 &nbsp;MeMeDAO is a DAO for investing in MeMe tokens.
@@ -15,6 +17,10 @@ In the real society, the gap between the rich and the poor is gradually increasi
 &nbsp;Following community discussion, the proposal will be reviewed by the consensus unit. Their job is to screen proposals to see if they will yield benefits to token holders before they are published on the snapshot. If the consensus group believes that the proposal may have significant potential risks, they may reject the proposal
 
 &nbsp;If the proposal is accepted by the consensus unit, it will be added to the snapshot.
+
+
+![MeMeDAO代币建议](https://user-images.githubusercontent.com/99536703/153709170-ce6dc0f2-fb6e-4765-ad72-16a5ef9a82b6.jpg)
+
 
 
 # RoadMap
