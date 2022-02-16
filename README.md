@@ -59,7 +59,7 @@ In the real society, the gap between the rich and the poor is gradually increasi
 * Apply for CEX listing
 * more and more ……..
 
-# Donate to Us and get Airdrops
+# Donate to Us
 
 * Ethereum address: ```0x7C7ad452766f49A898275ED4Eaf123E71e6E220C```
 
